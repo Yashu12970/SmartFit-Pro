@@ -1,2 +1,2 @@
 # SmartFit-Pro
-Responsive smartwatch selling website using HTML, CSS and JavaScript
+Responsive Smartwatch selling website using HTML, CSS and JavaScript
